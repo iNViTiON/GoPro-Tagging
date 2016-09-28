@@ -1,12 +1,26 @@
 {
   "name": "gopro-tagging",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get HiLight Tag from GoPro MP4 video file",
+  "keywords": [
+    "mp4", "mpeg-4", "mpeg4", "Video", "GoPro", "HiLight", "Tag"
+  ],
+  "homepage": "https://github.com/iNViTiON/GoPro-Tagging",
   "main": "gopro-tagging.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iNViTiON/GoPro-Tagging"
+  },
+  "bugs": {
+    "url": "https://github.com/iNViTiON/GoPro-Tagging/issues"
+  },
   "scripts": {
     "demo": "node demo.js"
   },
-  "author": "Ittipol Thirasat",
+  "author": {
+    "name": "Ittipol Thirasat",
+    "url": "https://twitter.com/iNViTiON"
+  },
   "license": "MIT",
   "dependencies": {
     "codem-isoboxer": "^0.2.6"
