@@ -1,0 +1,14 @@
+{
+  "name": "gopro-tagging",
+  "version": "1.0.0",
+  "description": "Get HiLight Tag from GoPro MP4 video file",
+  "main": "gopro-tagging.js",
+  "scripts": {
+    "demo": "node demo.js"
+  },
+  "author": "Ittipol Thirasat",
+  "license": "MIT",
+  "dependencies": {
+    "codem-isoboxer": "^0.2.6"
+  }
+}
